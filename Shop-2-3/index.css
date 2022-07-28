@@ -113,3 +113,8 @@ body {
   body {
     font-family: system-ui, serif;
   }
+.details{
+    cursor: pointer;
+    border: none;
+    
+  }
