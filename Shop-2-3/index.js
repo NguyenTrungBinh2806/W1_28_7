@@ -178,7 +178,9 @@ function CreateNewItem(shopItem){
       <div>
       <h4>${shopItem.vendor.name}</h4>
     </div>
-    <h3 class="details" >Add To Cart</h3>
+    <button class="details">
+      <h3>Add To Cart</h3>
+    </button>
   </div>
 </div>`;
 
